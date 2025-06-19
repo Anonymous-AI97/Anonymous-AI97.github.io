@@ -1,14 +1,9 @@
 ---
-layout: default         # 使用的布局（需在 _layouts/ 目录下存在 default.html）
-title:  欢迎来到我的网站  # 页面标题
-date:   2025-06-19 08:00:00 +0900  # 发布日期（格式：YYYY-MM-DD HH:MM:SS ±TZ）
-author: 张三             # 作者
-description: “这是我的个人网站首页，分享项目、博客和笔记。”  # 页面描述，帮助 SEO
-keywords:
-  - GitHub Pages
-  - Jekyll
-  - Markdown
+layout: default
 ---
+<h1 align="center">POINT: hello</h1>
+
+
 
 # 欢迎来到我的网站
 
