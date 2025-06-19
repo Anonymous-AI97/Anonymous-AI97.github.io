@@ -3,7 +3,7 @@ layout: default
 ---
 <h1 align="center">POINT: hello</h1>
 
-
+<p align="center"> Author 1， Author 2， Author 3， Author 4*</p>
 
 # 欢迎来到我的网站
 
