@@ -1,5 +1,5 @@
 ---
-title: 我的首页
+title: POINT: LLM-Enabled Intent Understanding
 layout: default
 ---
 # 欢迎来到我的网站
