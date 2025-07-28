@@ -21,17 +21,16 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 # Animated Visilization Results
 
 
-<div style="display:flex; justify-content: center;">
-  <figure style="margin:1em; text-align:center;">
-    <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="max-width:50%; height:auto;">
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="flex: 0 0 45%; text-align: center; margin:1em;">
+    <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="max-width:100%; height:auto;">
     <figcaption>This is gif 1</figcaption>
   </figure>
-  <figure style="margin:1em; text-align:center;">
-    <img src="/assets/Left_Lane_Change_1.gif" alt="gif2" style="max-width:50%; height:auto;">
+  <figure style="flex: 0 0 45%; text-align: center; margin:1em;">
+    <img src="/assets/Left_Lane_Change_1" alt="gif2" style="max-width:100%; height:auto;">
     <figcaption>This is gif 2</figcaption>
   </figure>
 </div>
-
 
 
 ## 项目展示
