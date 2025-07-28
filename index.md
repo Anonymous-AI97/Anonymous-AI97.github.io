@@ -27,7 +27,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
     <figcaption>This is gif 1</figcaption>
   </figure>
   <figure style="flex: 0 0 45%; text-align: center; margin:1em;">
-    <img src="/assets/Left_Lane_Change_1" alt="gif2" style="max-width:100%; height:auto;">
+    <img src="/assets/Left_Lane_Change_1.gif" alt="gif2" style="max-width:100%; height:auto;">
     <figcaption>This is gif 2</figcaption>
   </figure>
 </div>
