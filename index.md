@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
- <img src="/assets/Icon.png" alt="Icon" style="height:1em; vertical-align:middle; margin-right:0.5em;">
-<h1 align="center">POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
+<h1 align="center"><img src="/assets/Icon.png" alt="Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
 <p align="center"> Anonymous for Now*</p>
 
 # Abstract
