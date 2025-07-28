@@ -112,7 +112,23 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 
-## 项目展示
+# Instruction Realization with Various LLMs
+
+We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under identical simulation conditions for the left lane‑change command. Qwen‑3‑8B initiates the maneuver immediately at low speed, reducing traffic efficiency and leaving the lane change incomplete. DeepSeek‑V3 delays initiation until the ego vehicle speed exceeds 3 m/s, enlarging the target‑lane gap and shortening maneuver time, resulting in a smoother, earlier execution. This indicates that LLMs with different intelligence levels can exhibit substantial differences in behavior scheduling in dynamic traffic.
+
+<table style="width:100%; border:none; margin:2em 0;">
+  <tr>
+    <td style="text-align:center; vertical-align:top; width:50%;">
+      <img src="/assets/SLM_1.gif" alt="gif1" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">LLM Scheduling: Directly change to the left Lane.</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:50%;">
+      <img src="/assets/LLM_1.gif" alt="gif2" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">LLM Scheduling: Change to the left Lane when ego vehicle speed exceeds 3 m/s.</figcaption>
+    </td>
+  </tr>
+</table>
+
 
 ### 🔥 Project A
 - **简介**：一个基于 Vue3 + Vite 的后台管理系统模板  
