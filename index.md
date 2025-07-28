@@ -36,22 +36,26 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 </table>
 
 
-<table style="width:100%; border:none; margin:2em 0; table-layout:fixed;">
-  <tr>
-    <td style="text-align:center; vertical-align:top; width:50%;">
-      <figure style="margin:0; text-align:center;">
-        <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="height:200px; width:auto; display:block; margin:0 auto;">
-        <figcaption style="margin-top:0.5em;">Instruction: "So, when do we get to join the fast lane club?"</figcaption>
-      </figure>
-    </td>
-    <td style="text-align:center; vertical-align:top; width:50%;">
-      <figure style="margin:0; text-align:center;">
-        <img src="/assets/Left_Lane_Change_2.gif" alt="gif2" style="height:200px; width:auto; display:block; margin:0 auto;">
-        <figcaption style="margin-top:0.5em;">Instruction: "Watch out for pedestrians!"</figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
+
+
+<div style="display: flex; justify-content: space-around; margin:2em 0;">
+  <figure style="width:220px; text-align:center; margin:0;">
+    <div style="height:200px; width:100%; overflow:hidden;">
+      <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="height:100%; width:auto; display:block; margin:0 auto;">
+    </div>
+    <figcaption style="margin-top:0.5em;">Instruction: "Watch out for pedestrians."</figcaption>
+  </figure>
+  <figure style="width:220px; text-align:center; margin:0;">
+    <div style="height:200px; width:100%; overflow:hidden;">
+      <img src="/assets/Left_Lane_Change_2.gif" alt="gif2" style="height:100%; width:auto; display:block; margin:0 auto;">
+    </div>
+    <figcaption style="margin-top:0.5em;">Instruction: "So, when do we get to join the fast lane club?</figcaption>
+  </figure>
+</div>
+
+
+
+
 
 
 
