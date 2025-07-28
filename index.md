@@ -18,13 +18,21 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 
-## 最新更新
+# Animated Visilization Results
 
-1. **2025-06-18**：发布《用 Jekyll 搭建个人博客》教程  
-2. **2025-06-10**：开源项目 [awesome-ui-library](https://github.com/username/awesome-ui-library)  
-3. **2025-05-25**：分享《前端性能优化实战》笔记
 
----
+<div style="display:flex; justify-content: center;">
+  <figure style="margin:1em; text-align:center;">
+    <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="max-width:100%; height:auto;">
+    <figcaption>This is gif 1</figcaption>
+  </figure>
+  <figure style="margin:1em; text-align:center;">
+    <img src="/assets/Left_Lane_Change_1" alt="gif2" style="max-width:100%; height:auto;">
+    <figcaption>This is gif 2</figcaption>
+  </figure>
+</div>
+
+
 
 ## 项目展示
 
