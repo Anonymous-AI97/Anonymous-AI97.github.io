@@ -112,6 +112,12 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 
+
+
+
+
+
+
 # Instruction Realization with Various LLMs
 
 We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under identical simulation conditions for the left lane‑change command. Qwen‑3‑8B initiates the maneuver immediately at low speed, reducing traffic efficiency and leaving the lane change incomplete. DeepSeek‑V3 delays initiation until the ego vehicle speed exceeds 3 m/s, enlarging the target‑lane gap and shortening maneuver time, resulting in a smoother, earlier execution. This indicates that LLMs with different intelligence levels can exhibit substantial differences in behavior scheduling in dynamic traffic.
@@ -128,6 +134,10 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
     </td>
   </tr>
 </table>
+
+
+
+
 
 
 ### 🔥 Project A
