@@ -163,4 +163,28 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 
+- "The current speed is fine, but I feels like we are kinda camping out in the fast lane...!"
+<table style="width:100%; border:none; margin:2em 0;">
+  <tr>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/ChiTu_2.gif" alt="gif1" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">Ours</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/DiLu++_2.gif" alt="gif2" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">“DiLu++”</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/DiffusionES_2.gif" alt="gif3" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">“Diffusion-ES”</figcaption>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
