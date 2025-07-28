@@ -140,24 +140,27 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 
-### 🔥 Project A
-- **简介**：一个基于 Vue3 + Vite 的后台管理系统模板  
-- **地址**：[github.com/username/project-a](https://github.com/username/project-a)  
-- **演示**：[在线预览](https://username.github.io/project-a)
+# Comparison with Baselines
 
-### 🎨 Project B
-- **简介**：使用 D3.js 可视化数据仪表盘  
-- **地址**：[github.com/username/project-b](https://github.com/username/project-b)  
-- **演示**：[在线预览](https://username.github.io/project-b)
 
----
 
-## 联系方式
+<table style="width:100%; border:none; margin:2em 0;">
+  <tr>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/ChiTu.gif" alt="gif1" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">Ours</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/DiLu++.gif" alt="gif2" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">“DiLu++”</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/DiffusiomES.gif" alt="gif3" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">“在这里填写你的第三段文字说明”</figcaption>
+    </td>
+  </tr>
+</table>
 
-- 📧 邮箱：your.email@example.com  
-- 🐦 Twitter：[@yourhandle](https://twitter.com/yourhandle)  
-- 🖇️ 个人主页：[https://username.github.io](https://username.github.io)
 
----
 
-> “代码改变世界，分享让世界更美好。”  
+
