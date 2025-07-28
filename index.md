@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<h1 align="center">POINT: hello</h1>
+ <img src="/assets/Icon.png" alt="Icon" style="height:1em; vertical-align:middle; margin-right:0.5em;">
+<h1 align="center">POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
 <p align="center"> Author 1， Author 2， Author 3， Author 4*</p>
 
 # 欢迎来到我的网站
