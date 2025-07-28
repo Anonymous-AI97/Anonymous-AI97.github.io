@@ -40,8 +40,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Pull_Over_2.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"There’s a convenience store up ahead, mind if I grab something?<img width="541" height="42" alt="image" src="https://github.com/user-attachments/assets/ba0bb682-3f9b-45f3-8d77-d4bdd53ff396" />
-"</figcaption>
+      <figcaption style="margin-top:0.5em;">"There’s a convenience store up ahead, mind if I grab something?"</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Compositional_1.gif" alt="gif2" style="max-width:100%; height:auto;">
@@ -89,13 +88,25 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Left_Lane_Change_4.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"I feel unsafe behind that truck."<img width="412" height="42" alt="image" src="https://github.com/user-attachments/assets/c62a74d2-c27a-4e79-8360-48e0c7e6331f" />
-<img width="541" height="42" alt="image" src="https://github.com/user-attachments/assets/ba0bb682-3f9b-45f3-8d77-d4bdd53ff396" />
-"</figcaption>
+      <figcaption style="margin-top:0.5em;">"I feel unsafe behind that truck."</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Acceleration_1.gif" alt="gif2" style="max-width:100%; height:auto;">
       <figcaption style="margin-top:0.5em;">"Hit the gas, grandma!"</figcaption>
+    </td>
+  </tr>
+</table>
+
+
+<table style="width:100%; border:none; margin:2em 0;">
+  <tr>
+    <td style="text-align:center; vertical-align:top; width:50%;">
+      <img src="/assets/Left_Lane_Change_5.gif" alt="gif1" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">"We’re kinda hogging the fast lane — maybe time to scoot over?"</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:50%;">
+      <img src="/assets/Deceleration.gif" alt="gif2" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">"This isn’t a highway, it’s a neighborhood street!"</figcaption>
     </td>
   </tr>
 </table>
