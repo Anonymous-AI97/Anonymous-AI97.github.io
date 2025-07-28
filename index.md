@@ -40,11 +40,12 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Pull_Over_2.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"Watch out for pedestrians!"</figcaption>
+      <figcaption style="margin-top:0.5em;">"There’s a convenience store up ahead, mind if I grab something?<img width="541" height="42" alt="image" src="https://github.com/user-attachments/assets/ba0bb682-3f9b-45f3-8d77-d4bdd53ff396" />
+"</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Compositional_1.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"So, when do we get to join the fast lane club?"</figcaption>
+      <figcaption style="margin-top:0.5em;">"Change to the fast lane after the turn."</figcaption>
     </td>
   </tr>
 </table>
