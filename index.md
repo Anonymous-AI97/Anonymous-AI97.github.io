@@ -39,7 +39,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Pull_Over_2.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"There’s a convenience store up ahead, mind if I grab something?"</figcaption>
+      <figcaption style="margin-top:0.5em;">"I am not feeling great, can we stop for a second?"</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Compositional_1.gif" alt="gif2" style="max-width:100%; height:auto;">
@@ -70,7 +70,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Pull_Over_3.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"I am not feeling great, can we stop for a second?"</figcaption>
+      <figcaption style="margin-top:0.5em;">"There’s a convenience store up ahead, mind if I grab something?"</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Compositional_2.gif" alt="gif2" style="max-width:100%; height:auto;">
