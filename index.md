@@ -143,7 +143,7 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 # Comparison with Baselines
 
 
-
+- "Watch out for pedestrians!"
 <table style="width:100%; border:none; margin:2em 0;">
   <tr>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
@@ -156,7 +156,7 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiffusiomES.gif" alt="gif3" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“在这里填写你的第三段文字说明”</figcaption>
+      <figcaption style="margin-top:0.5em;">“Diffusion-ES”</figcaption>
     </td>
   </tr>
 </table>
