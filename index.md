@@ -26,7 +26,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">This is gif 1</figcaption>
+      <figcaption style="margin-top:0.5em;">Instruction: Watch out for pedestrians. Intent: Left Lane Change </figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Left_Lane_Change_1.gif" alt="gif2" style="max-width:100%; height:auto;">
@@ -36,18 +36,6 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 </table>
 
 
-
-
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <figure style="flex: 0 0 45%; text-align: center; margin:1em;">
-    <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="max-width:100%; height:auto;">
-    <figcaption>This is gif 1</figcaption>
-  </figure>
-  <figure style="flex: 0 0 45%; text-align: center; margin:1em;">
-    <img src="/assets/Left_Lane_Change_1.gif" alt="gif2" style="max-width:100%; height:auto;">
-    <figcaption>This is gif 2</figcaption>
-  </figure>
-</div>
 
 
 ## 项目展示
