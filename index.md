@@ -8,7 +8,7 @@ layout: default
 Most Human-Machine Interaction (HMI) research overlooks the maneuvering needs of passengers in autonomous driving (AD). Natural language offers an intuitive interface, yet translating passenger open-ended instructions into control signals—without sacrificing interpretability and traceability—remains a challenge. This study proposes an innovative framework that leverages a large language model (LLM) to interpret instructions, generates executable scripts that schedule multiple motion planners based on real-time feedback, and converts planned trajectories into control signals. The scheduling-centric design decouples semantic reasoning from vehicle control at different timescales, establishing a transparent, auditable reasoning pathway from high-level instructions to low-level actions. Due to the absence of high-fidelity evaluation tools, this study also introduces the first benchmark for open-ended instruction realization in a closed-loop setting. Comprehensive experiments reveal that the framework significantly improves task-completion rates over LLM-agent and data-driven baselines, reduces LLM query costs, and achieves safety and compliance on par with specialized AD approaches.
 
 # Framework
-<h1 align="center"><img src="/assets/Icon.png" alt="Icon" style="height:10em; vertical-align:middle; margin-right:0.5em;"></h1>
+<h1 align="center"><img src="/assets/Overview.pdf" alt="Icon" style="height:10em; vertical-align:middle; margin-right:0.5em;"></h1>
 
 
 
