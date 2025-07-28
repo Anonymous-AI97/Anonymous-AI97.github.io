@@ -182,9 +182,24 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 </table>
 
 
+- "So, when do we get to join the fast lane club?"
 
 
-
-
+<table style="width:100%; border:none; margin:2em 0;">
+  <tr>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/ChiTu_3.gif" alt="gif1" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">Ours</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/DiLu++_3.gif" alt="gif2" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">“DiLu++”</figcaption>
+    </td>
+    <td style="text-align:center; vertical-align:top; width:33.33%;">
+      <img src="/assets/DiffusionES_3.gif" alt="gif3" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">“Diffusion-ES”</figcaption>
+    </td>
+  </tr>
+</table>
 
 
