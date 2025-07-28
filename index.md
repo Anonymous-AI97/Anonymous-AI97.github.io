@@ -18,7 +18,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 
-# Animated Visualization Results of the Proposed Framework
+# Animated Visualization Results of Our Framework
 
 
 <table style="width:100%; border:none; margin:2em 0;">
