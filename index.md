@@ -141,7 +141,7 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 # Comparison with Baselines
-
+DiLu++ occasionally overlooks critical inputs, such as historical behaviors and passenger instructions, resulting in incoherent driving decisions. Diffusion-ES frequently generates trajectories misaligned with instructions, largely due to the diffusion process functioning as a black box; despite test-time optimization, it often produces uncontrollable plans.
 
 - "Watch out for pedestrians!"
 <table style="width:100%; border:none; margin:2em 0;">
@@ -163,7 +163,8 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 
-- "The current speed is fine, but I feels like we are kinda camping out in the fast lane...!"
+- "The current speed is fine, but I feels like we are kinda camping out in the fast lane..."
+  
 <table style="width:100%; border:none; margin:2em 0;">
   <tr>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
@@ -183,8 +184,7 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 - "So, when do we get to join the fast lane club?"
-
-
+  
 <table style="width:100%; border:none; margin:2em 0;">
   <tr>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
