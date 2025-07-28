@@ -26,11 +26,11 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Left_Lane_Change_1.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">Instruction: Watch out for pedestrians. Intent: Left Lane Change </figcaption>
+      <figcaption style="margin-top:0.5em;">Instruction: "Watch out for pedestrians!"</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
-      <img src="/assets/Left_Lane_Change_1.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">Instruction: Watch out for pedestrians. Intent: Left Lane Change</figcaption>
+      <img src="/assets/Left_Lane_Change_2.gif" alt="gif2" style="max-width:100%; height:auto;">
+      <figcaption style="margin-top:0.5em;">Instruction: "So, when do we get to join the fast lane club?"</figcaption>
     </td>
   </tr>
 </table>
