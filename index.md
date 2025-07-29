@@ -194,11 +194,11 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/SLM_1.gif" alt="gif1" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">LLM Scheduling: Directly change to the left Lane.</figcaption>
+      <figcaption style="margin-top:0.5em;">Qwen-3-8B Scheduling: Directly change to the left Lane.</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/LLM_1.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">LLM Scheduling: Change to the left Lane when ego vehicle speed exceeds 3 m/s.</figcaption>
+      <figcaption style="margin-top:0.5em;">DeepSeek-V3 Scheduling: Change to the left Lane when ego vehicle speed exceeds 3 m/s.</figcaption>
     </td>
   </tr>
 </table>
@@ -219,11 +219,11 @@ DiLu++ occasionally overlooks critical inputs, such as historical behaviors and 
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiLu++.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“DiLu++”</figcaption>
+      <figcaption style="margin-top:0.5em;">DiLu++</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiffusiomES.gif" alt="gif3" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“Diffusion-ES”</figcaption>
+      <figcaption style="margin-top:0.5em;">Diffusion-ES</figcaption>
     </td>
   </tr>
 </table>
@@ -240,11 +240,11 @@ DiLu++ occasionally overlooks critical inputs, such as historical behaviors and 
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiLu++_2.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“DiLu++”</figcaption>
+      <figcaption style="margin-top:0.5em;">DiLu++</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiffusionES_2.gif" alt="gif3" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“Diffusion-ES”</figcaption>
+      <figcaption style="margin-top:0.5em;">Diffusion-ES</figcaption>
     </td>
   </tr>
 </table>
@@ -260,11 +260,11 @@ DiLu++ occasionally overlooks critical inputs, such as historical behaviors and 
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiLu++_3.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“DiLu++”</figcaption>
+      <figcaption style="margin-top:0.5em;">DiLu++</figcaption>
     </td>
     <td style="text-align:center; vertical-align:top; width:33.33%;">
       <img src="/assets/DiffusionES_3.gif" alt="gif3" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">“Diffusion-ES”</figcaption>
+      <figcaption style="margin-top:0.5em;">Diffusion-ES</figcaption>
     </td>
   </tr>
 </table>
