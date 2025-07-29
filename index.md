@@ -66,7 +66,7 @@ Most Human-Machine Interaction (HMI) research overlooks the maneuvering needs of
 
 
 
-# Framework
+# Method
 <h1 align="center"><img src="/assets/Overview.png" alt="Framwork Overview" style="height:15em; vertical-align:middle; margin-right:0.5em;"></h1>
 
 This work proposes an instruction-realization framework powered by LLM. The framework leverages a LLM to interpret instructions (Stage 1) and generate executable scheduling scripts (Stage 2). These scripts schedule multiple motion planners using real-time environmental feedback and translate planned trajectories into control signals in a closed-loop setting (Stage 3).
@@ -76,7 +76,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 
-
+<div class="sec sec--gray" markdown="1">
 # Animated Visualization Results of Our Framework
 <table style="width:100%; border:none; margin:2em 0;">
   <tr>
@@ -167,6 +167,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   </tr>
 </table>
 
+</div>
 
 
 
@@ -195,8 +196,7 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 
-
-
+<div class="sec sec--gray" markdown="1">
 # Comparison with Instruction-Realization Baselines
 DiLu++ occasionally overlooks critical inputs, such as historical behaviors and passenger instructions, resulting in incoherent driving decisions. Diffusion-ES frequently generates trajectories misaligned with instructions, largely due to the diffusion process functioning as a black box; despite test-time optimization, it often produces uncontrollable plans.
 
@@ -258,5 +258,5 @@ DiLu++ occasionally overlooks critical inputs, such as historical behaviors and 
     </td>
   </tr>
 </table>
-
+</div>
 
