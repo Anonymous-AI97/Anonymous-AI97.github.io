@@ -38,7 +38,7 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 
 
 .sec{ padding:2.5rem 0; }
-.sec--gray { background:#f7f7f7; }
+.sec--gray { background:#d8e2ef; }
 .sec--blue { background:#e8f2ff; }
 .sec--yellow { background:#fffbe6; }
 .sec--green { background:#e8fff2; }
@@ -78,8 +78,6 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 # Animated Visualization Results of Our Framework
-
-
 <table style="width:100%; border:none; margin:2em 0;">
   <tr>
     <td style="text-align:center; vertical-align:top; width:50%;">
