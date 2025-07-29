@@ -43,7 +43,7 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 <div class="pill-bar">
   <a href="{{ page.paper_url }}"><img src="/assets/arxiv_icon.svg" alt=""> Paper</a>
   <a href="{{ page.code_url }}"><img src="/assets/github_icon.svg" alt=""> Code</a>
-  <a href="{{ page.arxiv_url }}"><img src="/assets/icons/dataset_icon.png" alt=""> Dataset</a>
+  <a href="{{ page.arxiv_url }}"><img src="/assets/dataset_icon.png" alt=""> Dataset</a>
 </div>
 
 
