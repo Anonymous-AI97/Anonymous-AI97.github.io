@@ -5,6 +5,15 @@ code_url: https://github.com/your_org/POINT
 dataset_url: https://arxiv.org/abs/2507.xxxxx
 ---
 
+<style>
+/* 隐藏 header 区域里指向主页的那条站点标题链接 */
+header a[href="/"], /* 如果是根目录链接 */
+header .site-title, /* 如果有 site-title 之类的 class */
+.navbar-brand       /* 或者 bootstrap 里叫 navbar‑brand 的 */
+{
+  display: none !important;
+}
+</style>
 
 <style>
 .pill-bar{
