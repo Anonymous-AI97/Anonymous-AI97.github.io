@@ -31,10 +31,7 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
   height:1em;
   width:auto;
 }
-</style>
 
-
-<style>
 /* 1) 隐藏指向首页的第一个裸链接 */
 body > a[href="/"],
 body > a[href="{{ "/" | relative_url }}"],
@@ -47,6 +44,7 @@ body > a:first-of-type{
   display:none !important;
 }
 </style>
+
 
 
 
