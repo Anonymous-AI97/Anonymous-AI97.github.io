@@ -32,6 +32,10 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
   height:1em;
   width:auto;
 }
+.site-title,
+.site-header a.site-title{
+  display:none !important;
+}
 </style>
 
 
