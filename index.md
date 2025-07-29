@@ -37,6 +37,12 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 }
 
 
+.sec{ padding:2.5rem 0; }
+.sec--gray { background:#f7f7f7; }
+.sec--blue { background:#e8f2ff; }
+.sec--yellow { background:#fffbe6; }
+.sec--green { background:#e8fff2; }
+
 </style>
 
 
