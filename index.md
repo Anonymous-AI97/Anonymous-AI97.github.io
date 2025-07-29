@@ -5,15 +5,18 @@ layout: default
 <p align="center"> Anonymous for Now. The authors commit that source code and dataset will be publicly available no later than 7 days after publication.</p>
 
 
-<div class="pill-bar">
-  <a href="/assets/POINT_paper.pdf">
-    <img src="/assets/icons/paper.svg" alt=""> Paper
+<div style="text-align:center;margin:1.2rem 0 2rem;">
+  <a href="/assets/POINT_paper.pdf"
+     style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
+    📄 Paper
   </a>
-  <a href="https://github.com/your_org/POINT">
-    <img src="/assets/icons/github.svg" alt=""> Code
+  <a href="https://github.com/your_org/POINT"
+     style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
+    <span style="font-family:monospace;">{} </span> Code
   </a>
-  <a href="https://arxiv.org/abs/2507.xxxxx">
-    <img src="/assets/icons/arxiv.svg" alt=""> arXiv
+  <a href="https://arxiv.org/abs/2507.xxxxx"
+     style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
+    ✂ arXiv
   </a>
 </div>
 
