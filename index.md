@@ -4,6 +4,21 @@ layout: default
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
 <p align="center"> Anonymous for Now. The authors commit that source code and dataset will be publicly available no later than 7 days after publication.</p>
 
+
+<div class="pill-bar">
+  <a href="/assets/POINT_paper.pdf">
+    <img src="/assets/icons/paper.svg" alt=""> Paper
+  </a>
+  <a href="https://github.com/your_org/POINT">
+    <img src="/assets/icons/github.svg" alt=""> Code
+  </a>
+  <a href="https://arxiv.org/abs/2507.xxxxx">
+    <img src="/assets/icons/arxiv.svg" alt=""> arXiv
+  </a>
+</div>
+
+
+
 # Abstract
 Most Human-Machine Interaction (HMI) research overlooks the maneuvering needs of passengers in autonomous driving (AD). Natural language offers an intuitive interface, yet translating passenger open-ended instructions into control signals—without sacrificing interpretability and traceability—remains a challenge. This study proposes an innovative framework that leverages a large language model (LLM) to interpret instructions, generates executable scripts that schedule multiple motion planners based on real-time feedback, and converts planned trajectories into control signals. The scheduling-centric design decouples semantic reasoning from vehicle control at different timescales, establishing a transparent, auditable reasoning pathway from high-level instructions to low-level actions. Due to the absence of high-fidelity evaluation tools, this study also introduces the first benchmark for open-ended instruction realization in a closed-loop setting. Comprehensive experiments reveal that the framework significantly improves task-completion rates over LLM-agent and data-driven baselines, reduces LLM query costs, and achieves safety and compliance on par with specialized AD approaches.
 
