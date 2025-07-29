@@ -40,7 +40,7 @@ layout: default
   </a>
   <a href="https://github.com/your_org/POINT"
      style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
-    <span style="font-family:monospace;">{}💻  Code
+    <span style="font-family:monospace;"> 💻  Code
   </a>
   <a href="https://arxiv.org/abs/2507.xxxxx"
      style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
