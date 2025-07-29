@@ -41,9 +41,9 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 
 
 <div class="pill-bar">
-  <a href="{{ page.paper_url }}"><img src="/assets/icons/paper.svg" alt=""> Paper</a>
+  <a href="{{ page.paper_url }}"><img src="/assets/github_icon.svg" alt=""> Paper</a>
   <a href="{{ page.code_url }}"><img src="/assets/icons/github.svg" alt=""> Code</a>
-  <a href="{{ page.arxiv_url }}"><img src="/assets/icons/arxiv.svg" alt=""> arXiv</a>
+  <a href="{{ page.arxiv_url }}"><img src="/assets/icons/arxiv.svg" alt=""> Dataset</a>
 </div>
 
 
