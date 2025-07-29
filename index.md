@@ -36,6 +36,8 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 .site-header a.site-title{
   display:none !important;
 }
+.sec:nth-of-type(odd){ background:#f7f7f7; }
+.sec:nth-of-type(even){ background:#e8f2ff; }
 </style>
 
 
