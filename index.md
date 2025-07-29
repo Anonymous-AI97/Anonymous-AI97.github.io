@@ -36,13 +36,6 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
   display:none !important;
 }
 
-
-.sec{ padding:2.5rem 0; }
-.sec--gray { background:#d8e2ef; }
-.sec--blue { background:#e8f2ff; }
-.sec--yellow { background:#fffbe6; }
-.sec--green { background:#e8fff2; }
-
 </style>
 
 
@@ -59,10 +52,10 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 </div>
 
 
-<div class="sec sec--gray" markdown="1">
+
 # Abstract
 Most Human-Machine Interaction (HMI) research overlooks the maneuvering needs of passengers in autonomous driving (AD). Natural language offers an intuitive interface, yet translating passenger open-ended instructions into control signals—without sacrificing interpretability and traceability—remains a challenge. This study proposes an innovative framework that leverages a large language model (LLM) to interpret instructions, generates executable scripts that schedule multiple motion planners based on real-time feedback, and converts planned trajectories into control signals. The scheduling-centric design decouples semantic reasoning from vehicle control at different timescales, establishing a transparent, auditable reasoning pathway from high-level instructions to low-level actions. Due to the absence of high-fidelity evaluation tools, this study also introduces the first benchmark for open-ended instruction realization in a closed-loop setting. Comprehensive experiments reveal that the framework significantly improves task-completion rates over LLM-agent and data-driven baselines, reduces LLM query costs, and achieves safety and compliance on par with specialized AD approaches.
-</div>
+
 
 
 
@@ -76,7 +69,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 
 
-<div class="sec sec--gray" markdown="1">
+
 # Animated Visualization Results of Our Framework
 <table style="width:100%; border:none; margin:2em 0;">
   <tr>
@@ -167,7 +160,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
   </tr>
 </table>
 
-</div>
+
 
 
 
@@ -196,7 +189,7 @@ We contrasts the planner scheduling of Qwen‑3‑8B and DeepSeek‑V3 under ide
 
 
 
-<div class="sec sec--gray" markdown="1">
+
 # Comparison with Instruction-Realization Baselines
 DiLu++ occasionally overlooks critical inputs, such as historical behaviors and passenger instructions, resulting in incoherent driving decisions. Diffusion-ES frequently generates trajectories misaligned with instructions, largely due to the diffusion process functioning as a black box; despite test-time optimization, it often produces uncontrollable plans.
 
@@ -258,5 +251,4 @@ DiLu++ occasionally overlooks critical inputs, such as historical behaviors and 
     </td>
   </tr>
 </table>
-</div>
 
