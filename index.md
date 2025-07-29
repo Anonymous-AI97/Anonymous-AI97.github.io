@@ -39,6 +39,21 @@ dataset_url: https://arxiv.org/abs/2507.xxxxx
 </style>
 
 
+<style>
+/* 1) 隐藏指向首页的第一个裸链接 */
+body > a[href="/"],
+body > a[href="{{ "/" | relative_url }}"],
+body > a[href^="https://anonymous-ai97.github.io"]{
+  display:none !important;
+}
+
+/* 保险：如果上面仍不中，就用这个“兜底” */
+body > a:first-of-type{
+  display:none !important;
+}
+</style>
+
+
 
 
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
