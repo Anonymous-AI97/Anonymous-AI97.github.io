@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 paper_url: /assets/POINT_paper.pdf
 code_url: https://github.com/your_org/POINT
 dataset_url: https://arxiv.org/abs/2507.xxxxx
