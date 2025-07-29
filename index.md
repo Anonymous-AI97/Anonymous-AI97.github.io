@@ -2,33 +2,6 @@
 layout: default
 ---
 
-<style>
-.pill-bar{
-  text-align:center;
-  margin: 1.2rem 0 2rem;
-}
-.pill-bar a{
-  display:inline-flex;
-  align-items:center;
-  gap:.4em;
-  padding:.45rem 1.15rem;
-  margin:0 .35rem;
-  background:#333;
-  color:#fff !important;
-  border-radius:9999px;
-  font-weight:500;
-  text-decoration:none;
-  font-size:0.95rem;
-  line-height:1;
-  transition:background .15s;
-}
-.pill-bar a:hover{ background:#555; }
-.pill-bar img{
-  height:1em;
-  width:auto;
-}
-</style>
-
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
 <p align="center"> Anonymous for Now. The authors commit that source code and dataset will be publicly available no later than 7 days after publication.</p>
 
