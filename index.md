@@ -1,6 +1,11 @@
 ---
 layout: default
+paper_url: /assets/POINT_paper.pdf
+code_url: https://github.com/your_org/POINT
+dataset_url: https://arxiv.org/abs/2507.xxxxx
 ---
+
+
 <style>
 .pill-bar{
   text-align:center;
@@ -29,24 +34,18 @@ layout: default
 </style>
 
 
+
+
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
 <p align="center"> Anonymous for Now. The authors commit that source code and dataset will be publicly available no later than 7 days after publication.</p>
 
 
-<div style="text-align:center;margin:1.2rem 0 2rem;">
-  <a href="/assets/POINT_paper.pdf"
-     style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
-    📄 Paper
-  </a>
-  <a href="https://github.com/your_org/POINT"
-     style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
-    <span style="font-family:monospace;"> 💻  Code
-  </a>
-  <a href="https://arxiv.org/abs/2507.xxxxx"
-     style="display:inline-flex;align-items:center;gap:.4em;padding:.45rem 1.15rem;margin:0 .35rem;background:#333;color:#fff;border-radius:9999px;text-decoration:none;font-weight:500;font-size:.95rem;line-height:1;">
-    📊  Dataset
-  </a>
+<div class="pill-bar">
+  <a href="{{ page.paper_url }}"><img src="/assets/icons/paper.svg" alt=""> Paper</a>
+  <a href="{{ page.code_url }}"><img src="/assets/icons/github.svg" alt=""> Code</a>
+  <a href="{{ page.arxiv_url }}"><img src="/assets/icons/arxiv.svg" alt=""> arXiv</a>
 </div>
+
 
 
 
