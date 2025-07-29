@@ -1,20 +1,11 @@
 ---
 layout: default
+hide_brand: true
 paper_url: /assets/POINT_paper.pdf
 code_url: https://github.com/your_org/POINT
 dataset_url: https://arxiv.org/abs/2507.xxxxx
 ---
 
-<style>
-/* 根据你的主题可能是其中之一，先试第一个 */
-.site-title,
-header .site-title,
-header a.site-title,
-/* 保险一点，把左上第一个链接也隐藏 */
-header a:first-of-type{
-  display:none !important;
-}
-</style>
 
 
 <style>
