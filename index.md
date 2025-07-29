@@ -59,13 +59,13 @@ body > a:first-of-type{
 
 
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
-<p align="center"> Anonymous for Now. The authors commit that source code and dataset will be publicly available no later than 7 days after publication.</p>
+<p align="center"> Anonymous for Now. Source code and dataset will be publicly available no later than 7 days after publication.</p>
 
 
 <div class="pill-bar">
   <a href="{{ page.paper_url }}"><img src="/assets/arxiv_icon.svg" alt=""> Paper</a>
-  <a href="{{ page.code_url }}"><img src="/assets/github_icon.svg" alt=""> Code</a>
-  <a href="{{ page.arxiv_url }}"><img src="/assets/dataset_icon.png" alt=""> Dataset</a>
+  <a href="{{ page.code_url }}"><img src="/assets/github_icon.svg" alt=""> Code(Coming Soon)</a>
+  <a href="{{ page.arxiv_url }}"><img src="/assets/dataset_icon.png" alt=""> Dataset(Coming Soon)</a>
 </div>
 
 
