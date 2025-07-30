@@ -59,7 +59,7 @@ body > a:first-of-type{
 
 
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
-<p align="center"> The source code and dataset will be released within seven days of publication. Those interested in access are advised to bookmark and subscribe for timely updates 😍😍! </p>
+<p align="center"> The source code and dataset will be released within seven days of publication. Those interested in this project are advised to bookmark and subscribe for timely updates 😍😍! </p>
 
 
 <div class="pill-bar">
