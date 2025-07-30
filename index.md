@@ -1,7 +1,7 @@
 ---
 layout: default
 paper_url: /assets/POINT_paper.pdf
-code_url: https://github.com/your_org/POINT
+code_url: https://github.com/your_org/POINT](https://github.com/point-scheduling/point-scheduling.github.io/
 dataset_url: https://arxiv.org/abs/2507.xxxxx
 ---
 
@@ -59,13 +59,13 @@ body > a:first-of-type{
 
 
 <h1 align="center"><img src="/assets/Icon.png" alt="Paper Icon" style="height:2em; vertical-align:middle; margin-right:0.5em;"> POINT: Passenger Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles</h1>
-<p align="center"> Anonymous for Now. Source code and dataset will be publicly available no later than 7 days after publication.</p>
+<p align="center"> The source code and dataset will be released within seven days of publication. Those interested in access are advised to bookmark and subscribe for timely updates😍😍! </p>
 
 
 <div class="pill-bar">
   <a href="{{ page.paper_url }}"><img src="/assets/arxiv_icon.svg" alt=""> Paper</a>
-  <a href="{{ page.code_url }}"><img src="/assets/github_icon.svg" alt=""> Code(Coming Soon)</a>
-  <a href="{{ page.arxiv_url }}"><img src="/assets/dataset_icon.png" alt=""> Dataset(Coming Soon)</a>
+  <a href="{{ page.code_url }}"><img src="/assets/github_icon.svg" alt=""> Code</a>
+  <a href="{{ page.arxiv_url }}"><img src="/assets/dataset_icon.png" alt=""> Dataset</a>
 </div>
 
 
