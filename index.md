@@ -141,7 +141,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
     </td>
     <td style="text-align:center; vertical-align:top; width:50%;">
       <img src="/assets/Compositional_2.gif" alt="gif2" style="max-width:100%; height:auto;">
-      <figcaption style="margin-top:0.5em;">"Overtake in three seconds."</figcaption>
+      <figcaption style="margin-top:0.5em;">"Let’s chill for three and then go past."</figcaption>
     </td>
   </tr>
 </table>
