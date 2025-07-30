@@ -1,8 +1,8 @@
 ---
 layout: default
-paper_url: /assets/POINT_paper.pdf
-code_url: https://github.com/your_org/POINT](https://github.com/point-scheduling/point-scheduling.github.io/
-dataset_url: https://arxiv.org/abs/2507.xxxxx
+paper_url: https://github.com/point-scheduling/point-scheduling.github.io/
+code_url: https://github.com/point-scheduling/point-scheduling.github.io/
+dataset_url: https://github.com/point-scheduling/point-scheduling.github.io/
 ---
 
 <style>
