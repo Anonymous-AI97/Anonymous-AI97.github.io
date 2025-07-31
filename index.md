@@ -84,7 +84,7 @@ This work proposes an instruction-realization framework powered by LLM. The fram
 
 # Open-Ended Passenger Instructions Exhibited High Lexical Diversity
 
-<h1 align="center"><img src="/assets/sunburst_chart.png" alt="Word Distribution" style="height:15em; vertical-align:middle; margin-right:0.5em;"></h1>
+<h1 align="center"><img src="/assets/sunburst_chart.png" alt="Word Distribution" style="height:30em; vertical-align:middle; margin-right:0.5em;"></h1>
 
 
 # Animated Visualization Results of Our Framework
