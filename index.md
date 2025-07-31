@@ -76,15 +76,15 @@ Most Human-Machine Interaction (HMI) research overlooks the maneuvering needs of
 
 
 
-# Method
+# Modular Framework Design Enabling an Interpretable Reasoning Pathway
 <h1 align="center"><img src="/assets/Overview.png" alt="Framwork Overview" style="height:15em; vertical-align:middle; margin-right:0.5em;"></h1>
 
 This work proposes an instruction-realization framework powered by LLM. The framework leverages a LLM to interpret instructions (Stage 1) and generate executable scheduling scripts (Stage 2). These scripts schedule multiple motion planners using real-time environmental feedback and translate planned trajectories into control signals in a closed-loop setting (Stage 3).
 
 
+# Open-Ended Passenger Instructions Exhibited High Lexical Diversity
 
-
-
+<h1 align="center"><img src="/assets/sunburst_chart.png" alt="Word Distribution" style="height:15em; vertical-align:middle; margin-right:0.5em;"></h1>
 
 
 # Animated Visualization Results of Our Framework
